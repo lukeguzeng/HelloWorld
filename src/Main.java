@@ -4,6 +4,7 @@ public class Main {
         user.firstName = "Steven";
         user.lastName = "Liao";
         user.phoneNumber = 1330230;
+        //i added this line in branch1 and I like it!!
 
         System.out.println("Hello! " + user.firstName + " " + user.lastName + " has a phone : " + user.phoneNumber);
     }
