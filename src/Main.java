@@ -6,6 +6,7 @@ public class Main {
         user.phoneNumber = 1330230;
         //i added this line in branch1 and I like it!!
         //i dont like cats
+        //i love lesson1
 
         System.out.println("Hello! " + user.firstName + " " + user.lastName + " has a phone : " + user.phoneNumber);
     }
